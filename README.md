@@ -1,5 +1,6 @@
 # StockHelper
-股票行情 股市行情 股票盯盘助手 
+股票行情 股市行情 股票盯盘助手
+<br/>
 ![image](https://raw.githubusercontent.com/dabpop139/StockHelper/master/screen.jpg)
 ## 浏览器扩展安装：
 
